@@ -63,7 +63,11 @@ ul.li {
 }
 
 ul {
-    border: 1px solid #DDDDDD;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 12px;
+    text-align: left;
+    margin-left: -40px;
     list-style: none;
     font-size: large;
 }
